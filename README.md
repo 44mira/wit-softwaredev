@@ -17,7 +17,7 @@ Points will be assigned per problem. You will find them in their respective `bat
 | Group Number | Score |
 | --- | --- |
 | Group 1 | 80pts |
-| Group 2 | 50pts |
+| Group 2 | 125pts |
 
 
 ## Answered:
@@ -32,3 +32,7 @@ Group 2:
 - Break camelCasing (15pts)
 - RGB to Hex (15pts)
 - First non-repeating character (20pts)
+- Big Sum (20pts)
+- Where's my Modulo? (20pts)
+- Stop Spinning My Words (10pts)
+- Digital Roots (25pts)
