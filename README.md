@@ -16,6 +16,17 @@ Points will be assigned per problem. You will find them in their respective `bat
 
 | Group Number | Score |
 | --- | --- |
-| Group 1 | 0pts |
-| Group 2 | 15pts |
+| Group 1 | 40pts |
+| Group 2 | 50pts |
 
+
+## Answered:
+
+Group 1:
+- Digital Roots (25pts)
+- RGB to Hex (15pts)
+
+Group 2:
+- Break camelCasing (15pts)
+- RGB to Hex (15pts)
+- First non-repeating character (20pts)
