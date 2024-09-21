@@ -16,7 +16,7 @@ Points will be assigned per problem. You will find them in their respective `bat
 
 | Group Number | Score |
 | --- | --- |
-| Group 1 | 40pts |
+| Group 1 | 60pts |
 | Group 2 | 50pts |
 
 
@@ -25,6 +25,7 @@ Points will be assigned per problem. You will find them in their respective `bat
 Group 1:
 - Digital Roots (25pts)
 - RGB to Hex (15pts)
+- Find the odd int (20pts)
 
 Group 2:
 - Break camelCasing (15pts)
