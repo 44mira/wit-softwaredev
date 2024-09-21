@@ -18,5 +18,4 @@ Points will be assigned per problem. You will find them in their respective `bat
 | --- | --- |
 | Group 1 | 0pts |
 | Group 2 | 0pts |
-| Group 3 | 0pts |
 
