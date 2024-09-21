@@ -6,8 +6,17 @@ Points will be assigned per problem. You will find them in their respective `bat
 
 ## Instructions
 
-Each team has a corresponding branch for their submissions. They must then push their submissions on their branch, in the same `batch` directory as the problems they are solving.
+> Each group must create their own git repo for easy checking of submissions. The links to these repos must be provided to the facilitators ahead of time.
 
 - Submissions may be written in any language.
 - After submitting, a representative of the group must approach one of our track facilitators to run the tests on their code.
+- Scores will be displayed on this `README.md`
+
+## Scores
+
+| | |
+| --- | --- |
+| Group 1 | 0pts |
+| Group 2 | 0pts |
+| Group 3 | 0pts |
 
